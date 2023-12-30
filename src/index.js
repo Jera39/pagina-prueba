@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import './index.css';
+import AppIndex from './AppIndex';
 
-const root = ReactDOM.createRoot(document.getElementById('root'))
+const root = ReactDOM.createRoot(document.getElementById('root'));
 
-
-
-root.render(<h1>Hola React!!!</h1>);
+root.render(<AppIndex />);
