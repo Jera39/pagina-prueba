@@ -1,5 +1,5 @@
 [![Etiqueta1](https://gitlab.com/uploads/-/system/group/avatar/10188876/1024px-Visual_Studio_Code_1.35_icon.svg.png)](https://code.visualstudio.com/Download){:width="100"}
-[![Etiqueta2](https://url_a_la_imagen2.png)](https://enlace_a_algo_relacionado_con_etiqueta2)
+[![Etiqueta2](https://sinryacademy.com/wp-content/uploads/2022/08/Web-page-design.png)](https://github.com/Jera39/ProyectoJoyeria){:width="150"}
 
 
 # Getting Started with Create React App
