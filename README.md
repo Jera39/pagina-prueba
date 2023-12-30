@@ -13,6 +13,10 @@ Mi pagina está basada en un proyecto anterior por lo que si deseas conocer cuea
 
 </p>
 **nn**
+**Note: this is a one-way operation. Once you `eject`, you can't go back**
+**this is a one-way operation. Once you `eject`, you can't go back!**
+**this is a one-way operation. Once you `eject`, you can't go back**
+**this is a one-way operation. Once you can't go back**
 
 <p>
     **nn**
