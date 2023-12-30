@@ -24,7 +24,7 @@ Mi pagina está basada en un proyecto anterior por lo que si deseas conocer cuea
 
 #####################################################
 
-# Docuemtenacion de React (**Esta en inglés**)
+# Documentación de React (**Esta en inglés**)
 
 #####################################################
 
