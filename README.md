@@ -1,4 +1,4 @@
-[![Etiqueta1](https://url_a_la_imagen1.png)](https://enlace_a_algo_relacionado_con_etiqueta1)
+[![Etiqueta1](https://gitlab.com/uploads/-/system/group/avatar/10188876/1024px-Visual_Studio_Code_1.35_icon.svg.png)](https://code.visualstudio.com/Download)
 [![Etiqueta2](https://url_a_la_imagen2.png)](https://enlace_a_algo_relacionado_con_etiqueta2)
 [![Etiqueta3](https://url_a_la_imagen3.png)](https://enlace_a_algo_relacionado_con_etiqueta3)
 
