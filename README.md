@@ -1,4 +1,4 @@
-[![IDE Usado](https://gitlab.com/uploads/-/system/group/avatar/10188876/1024px-Visual_Studio_Code_1.35_icon.svg.png)](https://code.visualstudio.com/Download)
+[![IDE Usado](https://img.shields.io/badge/Etiqueta1-Click%20Here-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/Download){}
 
 Uso Visual Studio Code como mi IDE preferido por lo que mi proyecto con react lo estoy trabajando ahí. Ayuda mucho con sus extensiones y gracias a la personalizacion que le puedes dar, se trabaja mas agusto 🤓👌
 
