@@ -1,3 +1,8 @@
+[![Etiqueta1](https://url_a_la_imagen1.png)](https://enlace_a_algo_relacionado_con_etiqueta1)
+[![Etiqueta2](https://url_a_la_imagen2.png)](https://enlace_a_algo_relacionado_con_etiqueta2)
+[![Etiqueta3](https://url_a_la_imagen3.png)](https://enlace_a_algo_relacionado_con_etiqueta3)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
