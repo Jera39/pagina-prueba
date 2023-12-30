@@ -1,4 +1,4 @@
-[![IDE Usado](https://belajarphp.net/wp-content/uploads/2019/04/logo-vscode-1.png)](https://code.visualstudio.com/Download)
+[![IDE Usado](https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png)](https://code.visualstudio.com/Download)
 
 <p align="center"> Dale click a la Imagen para ir </p>
 
