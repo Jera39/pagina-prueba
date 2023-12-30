@@ -1,22 +1,25 @@
 [![IDE Usado](https://gitlab.com/uploads/-/system/group/avatar/10188876/1024px-Visual_Studio_Code_1.35_icon.svg.png)](https://code.visualstudio.com/Download)
 
+<p align="center">
+
 Uso Visual Studio Code como mi IDE preferido por lo que mi proyecto con react lo estoy trabajando ahí. Ayuda mucho con sus extensiones y gracias a la personalizacion que le puedes dar, se trabaja mas agusto 🤓👌
 
+</p>
 [![Modelo Web](https://sinryacademy.com/wp-content/uploads/2022/08/Web-page-design.png)](https://github.com/Jera39/ProyectoJoyeria)
-
-Mi pagina está basada en un proyecto anterior por lo que si deseas conocer cueal fue la pagina original (que dicho sea de paso fue hecha de manera bastante básica usando en su mayoria html, css, js y java para las API's con Spring) y ya que me llamó la antencion aprender y practicar React, empece a adaptar mi antigua página con react y mejorarla (eso espero) en el proceso.
-
 <p align="center">
+Mi pagina está basada en un proyecto anterior por lo que si deseas conocer cueal fue la pagina original (que dicho sea de paso fue hecha de manera bastante básica usando en su mayoria html, css, js y java para las API's con Spring) y ya que me llamó la antencion aprender y practicar React, empece a adaptar mi antigua página con react y mejorarla (eso espero) en el proceso.
+</p>
+
   <a href="https://code.visualstudio.com/Download">
     <img src="https://img.shields.io/badge/Etiqueta1-Click%20Here-blue?style=flat-square&logo=visual-studio-code" alt="Etiqueta1">
   </a>
-</p>
 
-<p align="center">
+
+
   <a href="https://github.com/Jera39/ProyectoJoyeria">
     <img src="https://img.shields.io/badge/Etiqueta2-Click%20Here-green?style=flat-square&logo=react" alt="Etiqueta2">
   </a>
-</p>
+
 
 
 # Getting Started with Create React App
