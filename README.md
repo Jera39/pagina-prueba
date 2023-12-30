@@ -15,6 +15,23 @@ Mi pagina está basada en un proyecto anterior por lo que si deseas conocer cuea
 
 
 
+
+
+
+
+
+
+
+#####################################################
+
+# Docuemtenacion de React (**Esta en inglés**)
+
+#####################################################
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
