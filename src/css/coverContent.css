@@ -1,0 +1,28 @@
+.fondo-inicio-texto {
+    padding: 0px 50px;
+    /* font-family: 'Dancing Script', cursive; */
+    display: flex;
+    width: 800px;
+    flex-direction: column;
+}
+
+.fondo-inicio-texto-menu {
+    font-family: 'Cormorant', serif;
+    font-size: 25px;
+    margin: 20px 0px;
+}
+
+.fondo-inicio-texto-categoria {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.fondo-inicio-texto-descripcion {
+    font-family: 'Cormorant', serif;
+    font-size: 30px;
+    margin: 0px 20px;
+    letter-spacing: 0px;
+    width: 520px;
+}

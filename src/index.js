@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import AppIndex from './AppIndex';
+// import AppIndex from './AppIndex';
+import AppJoyas from './AppJoyas';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+// const rootElement = document.getElementById('root');
+const joyasElement = document.getElementById('joyas');
 
-root.render(<AppIndex />);
+// ReactDOM.createRoot(rootElement).render(<AppIndex />);
+ReactDOM.createRoot(joyasElement).render(<AppJoyas />);
