@@ -1,8 +1,6 @@
 //Cover 
 import React from "react";
 
-
-
 function Cover({ children, imgCover }) {
 
     const coverStyle = {

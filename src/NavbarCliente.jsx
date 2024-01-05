@@ -1,9 +1,7 @@
 // NavbarCliente.jsx
 import React from "react";
-import NavbarItem from "./NavbarItem";
-import Submenu from "./Submenu";
 import LoginSection from "./LoginSection";
-import "./navbarCliente.css";
+import "./css/navbarCliente.css";
 
 function NavbarCliente({ children }) {
     return (

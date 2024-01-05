@@ -1,0 +1,15 @@
+.content-muestra{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-column-gap: 50px;
+    justify-content: center;
+    align-items: center;
+    margin: 3%;
+    padding-bottom: 5%;
+    
+}
+
+.content-muestra a{
+    text-decoration: none;
+    color: #000000;
+}
