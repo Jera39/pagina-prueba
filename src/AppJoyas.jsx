@@ -52,9 +52,7 @@ function AppJoyas() {
                 <CoverContent content={coverContentProps[selectedCategory]} />
             </Cover>
             <ProductSection tipo={selectedCategory}>
-                {
                     <ProductElement/>
-                }
             </ProductSection>
         </>
     );

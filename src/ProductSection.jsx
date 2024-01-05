@@ -19,7 +19,7 @@ function ProductSection({ child, tipo }) {
         <div className="contenido">
             <div className="content-muestra" id="joyas-container">
                 {joyas.map(joya => (
-                    <div >
+                    <div className="muestra" key={joya.id}>
                         {child}
                     </div>
                 ))}
